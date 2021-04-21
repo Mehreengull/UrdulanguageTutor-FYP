@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:drawable="@drawable/alifmudaa"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/alifmudaa1"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/alifmudaa2"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/alifmudaa3"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/alifmudaa4"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/alifmudaa5"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/alifmudaa6"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/alifmudaa7"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/alifmudaa8"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/alifmudaa8"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/alifmudaa9"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/alifmudaa91"
+        android:duration="400"/>
+
+
+
+</animation-list>

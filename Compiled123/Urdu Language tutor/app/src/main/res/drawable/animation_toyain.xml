@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item
+        android:drawable="@drawable/toyain"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/toyain1"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/toyain2"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/toyain3"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/toyain4"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/toyain5"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/toyain6"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/toyain7"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/toyain8"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/toyain9"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/toyain91"
+        android:duration="400"/>
+
+
+</animation-list>

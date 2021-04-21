@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:drawable="@drawable/gajar"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/gajar1"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/gajar2"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/gajar3"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/gajar4"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/gajar5"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/gajar6"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/gajar7"
+        android:duration="400"/>
+
+
+</animation-list>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:drawable="@drawable/noon"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/noon1"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/noon2"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/noon3"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/noon4"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/noon5"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/noon6"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/noon7"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/noon8"
+        android:duration="400"/>
+
+
+</animation-list>

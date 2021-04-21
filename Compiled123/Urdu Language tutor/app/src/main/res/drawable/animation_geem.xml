@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item
+        android:drawable="@drawable/geem"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/geem1"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/geem2"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/geem3"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/geem4"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/geem5"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/geem6"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/geem7"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/geem8"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/geem9"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/geem91"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/geem92"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/geem93"
+        android:duration="400"/>
+
+
+    <item
+        android:drawable="@drawable/geem94"
+        android:duration="400"/>
+
+
+    <item
+        android:drawable="@drawable/geem95"
+        android:duration="400"/>
+
+
+</animation-list>

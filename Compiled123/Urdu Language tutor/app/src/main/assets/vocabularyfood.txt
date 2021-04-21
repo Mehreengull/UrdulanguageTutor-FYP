@@ -1,0 +1,15 @@
+﻿Eggs	                                                                                       anday                            	 انڈے
+French Fries	                                                                               aalo kay chips                  	آلو کے چپس
+Mutton	                                                                                       bhad bakri ka go shat	بھیڑ بکری کا گوشت
+Cookie	                                                                                       biscuit                           	 بسکٹ
+Cheese	                                                                                       pneer                              	پنیر
+Lobster	                                                                                       jhinga                              	جهینگا
+Rice	                                                                                       chaval                              	چاول
+Baking Powder	                                                                              khameri safoof                	 خمیری سفوف
+Curd	                                                                                         dahi                            	 دہی
+Milk	                                                                                        doodh                           	دودھ
+Bread	                                                                                         roati                           	روٹی
+Sandwich	                                                                                    sandwich                        	سینڈوچ
+Beef	                                                                                      gaay ka go shat                	گائے کا گوشت
+Steak	                                                                                     go shat ka tukra               	گوشت کا ٹکڑا
+Wheat	                                                                                           gundam                       	 گندم

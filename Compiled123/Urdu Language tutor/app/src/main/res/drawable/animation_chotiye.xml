@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:drawable="@drawable/chotiye"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/chotiye1"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/chotiye2"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/chotiye3"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/chotiye4"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/chotiye5"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/chotiye6"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/chotiye7"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/chotiye8"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/chotiye9"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/chotiye91"
+        android:duration="400"/>
+
+
+</animation-list>

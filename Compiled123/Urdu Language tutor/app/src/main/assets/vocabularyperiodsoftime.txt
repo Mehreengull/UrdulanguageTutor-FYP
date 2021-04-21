@@ -1,0 +1,15 @@
+﻿Now	                                                                                            abhi                               	ابھی
+Half	                                                                                       aadha                               	آدھا
+Later                                                                                       	baad                              	بعد
+After                                                                                   	baad mein                           	بعد میں
+O'clock	                                                                                    bjaa / bjaay                        	بجا / بجے
+Quarter to	                                                                                   ponay                               	پونے
+Then	                                                                                        taab                              	تب
+Noon	                                                                                      dopehar                              	دوپہر
+Night	                                                                                        raat                             	رات
+Afternoon                                                                                   	sapehar                           	سہ پہر
+Quarter past                                                                                	sawa                               	سوا
+Half past	                                                                                   saray                               	ساڑھے
+Second	                                                                                      second                             	سیکنڈ
+Evening                                                                                     	shaam                              	شام
+Morning                                                                                      	subha                              	صبح

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:drawable="@drawable/wow"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/wow1"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/wow2"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/wow3"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/wow4"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/wow5"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/wow6"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/wow7"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/wow8"
+        android:duration="400"/>
+
+</animation-list>

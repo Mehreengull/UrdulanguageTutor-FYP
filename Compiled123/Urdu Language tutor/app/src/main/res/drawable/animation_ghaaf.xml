@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:drawable="@drawable/ghaaf"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/ghaaf1"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/ghaaf2"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/ghaaf3"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/ghaaf4"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/ghaaf5"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/ghaaf6"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/ghaaf7"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/ghaaf8"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/ghaaf9"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/ghaaf91"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/ghaaf92"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/ghaaf93"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/ghaaf94"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/ghaaf95"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/ghaaf96"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/ghaaf97"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/ghaaf98"
+        android:duration="400"/>
+</animation-list>

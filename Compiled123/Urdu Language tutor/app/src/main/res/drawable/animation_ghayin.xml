@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:drawable="@drawable/ghayin"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/ghayin1"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/ghayin2"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/ghayin3"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/ghayin4"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/ghayin5"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/ghayin6"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/ghayin7"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/ghayin8"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/ghayin9"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/ghayin91"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/ghayin92"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/ghayin93"
+        android:duration="400"/>
+
+</animation-list>

@@ -1,0 +1,15 @@
+﻿Nadia: 	Hello, my name is Nadia.                                                                                         	 ہیلو ، میرا نام نادیہ ہے۔	نادیہ
+Ayesha: 	Hi, I am Ayesha.                                                                                              	ہائے ، میں عائشہ ہوں۔	عائشہ
+Nadia: 	Nice to meet you                                                                                                	آپ سے مل کر خوشی ہوئی۔	نادیہ
+Ayesha: 	Nice to meet you too.                                                                                       	اپ سے مل کر اچھا لگا۔	عائشہ
+Nadia: 	Where are you from Ayesha?                                                                                       	عائشہ آپ کہاں سے ہیں؟	نادیہ
+Ayesha: 	I am from Lahore, how about you?                                                                      	میں لاہور سے ہوں ، آپ کا کیا حال ہے؟	عائشہ
+Nadia: 	I'm from Karachi.                                                                                               	      میں کراچی سے ہوں۔	نادیہ
+Ayesha: 	I see, have you been studying here for all that time?                                                   	عائشہ میں دیکھ رہا ہوں ، کیا آپ سارے عرصے سے یہاں تعلیم حاصل کررہے ہیں؟
+Nadia: 	Yes, this is my third year here, I have got one more year to go.                                                     	نادیہ ہاں ، یہ میرا یہاں تیسرا سال ہے ، مجھے ابھی ایک سال اور جانا ہے۔
+Ayesha: 	What are you studying?                                                                                           	آپ کیا پڑھ رہے ہیں؟	عائشہ
+Nadia: 	I'm studying English Literature. How about you?                                                                    	میں انگریزی ادب پڑھ رہا ہوں۔ تم کیسے ھو؟	نادیہ
+Ayesha: 	I want to be a school teacher.                                                                                   	میں اسکول ٹیچر بننا چاہتا ہوں	عائشہ
+Nadia: 	I have to go to class now, it was nice talking with you.                                                              	   نادیہ مجھے ابھی کلاس میں جانا ہے ، آپ کے ساتھ بات کرنا اچھا لگا۔
+Ayesha: 	Thank you.                                                                                                          	آپ کا شکریہ۔	عائشہ
+Nadia: 	Good-bye!                                                                                                               	خدا حافظ!	نادیہ

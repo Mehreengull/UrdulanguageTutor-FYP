@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:drawable="@drawable/salabari"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/salabari1"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/salabari2"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/salabari3"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/salabari4"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/salabari5"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/salabari6"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/salabari7"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/salabari8"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/salabari9"
+        android:duration="400"/>
+
+</animation-list>

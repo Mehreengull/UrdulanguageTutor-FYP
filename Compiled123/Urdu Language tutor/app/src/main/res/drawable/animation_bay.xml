@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item
+        android:drawable="@drawable/bay4"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/bay5"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/bay6"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/bay7"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/bay8"
+        android:duration="400"/>
+
+
+
+</animation-list>

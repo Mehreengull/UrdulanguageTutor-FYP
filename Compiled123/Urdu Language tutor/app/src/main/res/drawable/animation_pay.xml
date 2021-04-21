@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:drawable="@drawable/pay"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/pay1"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/pay2"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/pay3"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/pay4"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/pay5"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/pay6"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/pay7"
+        android:duration="400"/>
+
+
+</animation-list>

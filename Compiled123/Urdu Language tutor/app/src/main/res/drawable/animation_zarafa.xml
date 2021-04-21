@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:drawable="@drawable/zarafa"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/zarafa1"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/zarafa2"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/zarafa3"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/zarafa4"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/zarafa5"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/zarafa6"
+        android:duration="400"/>
+
+</animation-list>

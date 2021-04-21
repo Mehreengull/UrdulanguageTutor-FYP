@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:drawable="@drawable/pahiya"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/pahiya1"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/pahiya2"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/pahiya3"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/pahiya4"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/pahiya5"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/pahiya6"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/pahiya7"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/pahiya8"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/pahiya9"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/pahiya91"
+        android:duration="400"/>
+
+</animation-list>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:drawable="@drawable/qalam"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/qalam1"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/qalam2"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/qalam3"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/qalam4"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/qalam5"
+        android:duration="400"/>
+
+
+
+
+</animation-list>

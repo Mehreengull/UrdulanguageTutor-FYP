@@ -1,0 +1,14 @@
+﻿Cashier: 	Hello, may I take your order?                                                                          	ہیلو ، کیا میں آپ کا آرڈر لے سکتا ہوں؟	خزانچی
+Customer: 	Hi, I have a double cheeseburger.                                                                      	ہائے ، میرے پاس ایک ڈبل چیزبرگر ہے۔	گاہک
+Cashier: 	With everything on it?                                                                                  	اس پر ہر چیز کے ساتھ؟	خزانچی
+Customer: 	No onions, please.                                                                                        	برائے مہربانی پیاز نہیں۔	گاہک
+Cashier:	Sure, would you like  the sandwich?                                                                    	ضرور ، کیا آپ سینڈوچ پسند کریں گے؟	خزانچی
+Customer: 	Coke, please.                                                                                                   	کوک ، براہ کرم	گاہک
+Cashier: 	Diet Coke or regular?                                                                                             	ڈائٹ کوک یا باقاعدہ؟	خزانچی
+Customer:	Regular.                                                                                                              	باقاعدہ۔	گاہک
+Cashier: 	Of course, Would you like anything else?                                                                        	بالکل ، کیا آپ کچھ اور پسند کریں گے؟	خزانچی
+Customer: 	No, that'll be all. Thanks.                                                                                 	نہیں ، سب ہو جائے گا۔ شکریہ.	گاہک
+Cashier:	For here or to go?                                                                                               	یہاں کے لئے یا جانے کے لئے؟	خزانچی
+Customer: 	For here.                                                                                                           	یہاں کے لیے.	گاہک
+Cashier: 	That will be 500Rs please.                                                                                          	   روپے ہوگا براہ کرم 500یہ 	خزانچی
+Customer: 	Thank you. Here you go.                                                                                              	شکریہ یہاں تم جاؤ۔	گاہک

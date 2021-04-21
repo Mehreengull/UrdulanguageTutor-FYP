@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:drawable="@drawable/ghubary"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/ghubary1"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/ghubary2"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/ghubary3"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/ghubary4"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/ghubary5"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/ghubary6"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/ghubary7"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/ghubary8"
+        android:duration="400"/>
+
+
+</animation-list>

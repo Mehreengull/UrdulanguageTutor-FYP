@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:drawable="@drawable/darakht"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/darakht1"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/darakht2"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/darakht3"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/darakht4"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/darakht5"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/darakht6"
+        android:duration="400"/>
+
+</animation-list>

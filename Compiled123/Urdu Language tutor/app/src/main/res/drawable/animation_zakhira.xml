@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:drawable="@drawable/zakhira"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/zakhira1"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/zakhira2"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/zakhira3"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/zakhira4"
+        android:duration="400"/>
+
+</animation-list>

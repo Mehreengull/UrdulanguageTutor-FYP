@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:drawable="@drawable/zaeif"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/zaeif1"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/zaeif2"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/zaeif3"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/zaeif4"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/zaeif5"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/zaeif6"
+        android:duration="400"/>
+
+</animation-list>

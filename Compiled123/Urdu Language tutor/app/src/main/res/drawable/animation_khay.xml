@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item
+        android:drawable="@drawable/khay"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/khay1"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/khay2"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/khay3"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/khay4"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/khay5"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/khay6"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/khay7"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/khay8"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/khay9"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/khay91"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/khay92"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/khay93"
+        android:duration="400"/>
+
+
+</animation-list>

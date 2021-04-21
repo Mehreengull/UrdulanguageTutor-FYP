@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:drawable="@drawable/chaye"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/chaye1"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/chaye2"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/chaye3"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/chaye4"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/chaye5"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/chaye6"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/chaye7"
+        android:duration="400"/>
+
+
+
+
+</animation-list>

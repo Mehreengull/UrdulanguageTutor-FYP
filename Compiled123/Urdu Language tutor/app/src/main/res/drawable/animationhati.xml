@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:drawable="@drawable/hati"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/hati1"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/hati2"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/hati3"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/hati4"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/hati5"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/hati6"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/hati7"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/hati8"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/hati9"
+        android:duration="400"/>
+
+
+
+
+
+</animation-list>

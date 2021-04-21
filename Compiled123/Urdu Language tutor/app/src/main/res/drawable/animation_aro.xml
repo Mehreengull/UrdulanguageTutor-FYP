@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:drawable="@drawable/aro"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/aro1"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/aro2"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/aro3"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/aro4"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/aro5"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/aro6"
+        android:duration="400"/>
+
+</animation-list>

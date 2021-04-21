@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:drawable="@drawable/topi"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/topi1"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/topi2"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/topi3"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/topi4"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/topi5"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/topi6"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/topi7"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/topi8"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/topi9"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/topi91"
+        android:duration="400"/>
+
+</animation-list>

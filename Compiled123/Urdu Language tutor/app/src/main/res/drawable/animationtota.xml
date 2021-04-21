@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:drawable="@drawable/tota"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/tota1"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/tota2"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/tota3"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/tota4"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/tota5"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/tota6"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/tota7"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/tota8"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/tota9"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/tota91"
+        android:duration="400"/>
+
+
+
+
+</animation-list>

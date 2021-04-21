@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:drawable="@drawable/yaka"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/yaka1"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/yaka2"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/yaka3"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/yaka4"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/yaka5"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/yaka6"
+        android:duration="400"/>
+
+
+
+
+</animation-list>

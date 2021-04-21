@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:drawable="@drawable/barriye"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/barriye1"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/barriye2"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/barriye3"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/barriye4"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/barriye5"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/barriye6"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/barriye7"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/barriye8"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/barriye9"
+        android:duration="400"/>
+
+
+</animation-list>

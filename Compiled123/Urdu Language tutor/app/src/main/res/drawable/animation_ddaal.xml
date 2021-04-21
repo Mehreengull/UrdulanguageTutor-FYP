@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:drawable="@drawable/ddaal"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/ddaal1"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/ddaal2"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/ddaal3"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/ddaal4"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/ddaal5"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/ddaal6"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/ddaal7"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/ddaal8"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/ddaal9"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/ddaal91"
+        android:duration="400"/>
+
+
+</animation-list>

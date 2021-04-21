@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:drawable="@drawable/lota"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/lota1"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/lota2"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/lota3"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/lota4"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/lota5"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/lota6"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/lota7"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/lota8"
+        android:duration="400"/>
+
+
+</animation-list>

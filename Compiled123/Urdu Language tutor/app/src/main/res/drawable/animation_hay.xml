@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item
+        android:drawable="@drawable/hay"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/hay1"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/hay2"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/hay3"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/hay4"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/hay5"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/hay6"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/hay7"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/hay8"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/hay9"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/hay91"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/hay92"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/hay93"
+        android:duration="400"/>
+
+
+</animation-list>

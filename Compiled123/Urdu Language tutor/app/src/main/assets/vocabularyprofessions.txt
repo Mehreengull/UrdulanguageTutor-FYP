@@ -1,0 +1,15 @@
+﻿Teacher	                                                                                      ustaad                             	 استاد
+Actor	                                                                                      adacar                              	اداکار
+Electrician	                                                                      bijili ka kareegar                        	بجلی کا کاریگر
+Carpenter	                                                                                  barhai                             	بڑھئی
+Chef	                                                                                   bavarchee                             	باورچی
+Gardener	                                                                                baagbaan                               	باغبان
+Barber	                                                                                      hajaam                               	حجام
+Dentist	                                                                                 dandaan saaz                           	دندان ساز
+Postman	                                                                                      dakiya                             	ڈاکیا
+Soldier	                                                                                       sipahi                              	سپاہی
+Doctor                                                                                      	tabeeb                            	طبیب
+Architect	                                                                             fun e tameer ka mahir              	فن تعمیر کا ماہر
+Butcher                                                                                     	qasaie                           	قصائی
+Accountant	                                                                                    mhasub                           	محاسب
+Designer	                                                                                     mojad                           	موجد

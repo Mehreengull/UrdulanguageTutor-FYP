@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:drawable="@drawable/fay"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/fay1"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/fay2"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/fay3"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/fay4"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/fay5"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/fay6"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/fay7"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/fay8"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/fay9"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/fay91"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/fay92"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/fay93"
+        android:duration="400"/>
+
+
+</animation-list>

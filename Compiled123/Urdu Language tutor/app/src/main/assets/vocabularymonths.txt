@@ -1,0 +1,11 @@
+﻿February	                                                                                 farvery                                  	فروری
+March	                                                                                       march                                  	مارچ
+April	                                                                                      aprail                                  	اپریل
+May	                                                                                             mai                                  	مئی
+June 	                                                                                        joon                                 	جون
+July	                                                                                        julai                               	جولائی
+August	                                                                                        agast                               	اگست
+September	                                                                                 stamber                                	 ستمبر
+October	                                                                                     aktober                                	اکتوبر
+November	                                                                                 november                                 	نومبر
+December	                                                                                 dasamber                                 	دسمبر

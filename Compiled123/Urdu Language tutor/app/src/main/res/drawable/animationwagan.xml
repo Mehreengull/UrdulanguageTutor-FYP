@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:drawable="@drawable/wagan"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/wagan1"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/wagan2"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/wagan3"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/wagan4"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/wagan5"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/wagan6"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/wagan7"
+        android:duration="400"/>
+
+
+
+
+</animation-list>

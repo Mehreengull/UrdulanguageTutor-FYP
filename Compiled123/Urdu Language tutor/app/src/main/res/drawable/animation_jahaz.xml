@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:drawable="@drawable/jahaz"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/jahaz1"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/jahaz2"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/jahaz3"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/jahaz4"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/jahaz5"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/jahaz6"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/jahaz7"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/jahaz8"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/jahaz9"
+        android:duration="400"/>
+
+</animation-list>

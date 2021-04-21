@@ -1,0 +1,15 @@
+﻿Swallow	                                                                                     ababeel                                          	 ابابیل
+Owl	                                                                                         ullu                                              	      الو
+Hawk	                                                                                     baaz                                               باز
+Duck	                                                                                     btakh                                           	      بطخ
+Nightingale	                                                                                 bulbul                                            	 بلبل
+Quail	                                                                                     btair                                             	بٹیر
+Partridge	                                                                                 titar                                             	 تیتر
+Sparrow	                                                                                     chidya                                         	چڑیا
+Bat	                                                                                         chamgardar                                    چمگادڑ
+Crane	                                                                                     saras                                            	سارس
+Eagle	                                                                                     shaheen                                          شاہین
+Parrot	                                                                                     taota                                           	طوطا
+Cuckoo	                                                                                     koyal                                              کوئل
+Pigeon	                                                                                     kbotar                                            کبوتر
+Vulture                                                                                    	 gidh                                               گدھ

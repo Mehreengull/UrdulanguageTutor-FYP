@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item
+        android:drawable="@drawable/swad"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/swad1"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/swad2"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/swad3"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/swad4"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/swad5"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/swad6"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/swad7"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/swad8"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/swad9"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/swad91"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/swad92"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/swad93"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/swad94"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/swad95"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/swad96"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/swad97"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/swad98"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/swad99"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/swad991"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/swad992"
+        android:duration="400"/>
+
+</animation-list>

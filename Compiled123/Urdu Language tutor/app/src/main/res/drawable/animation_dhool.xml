@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+
+    <item
+        android:drawable="@drawable/dhool1"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/dhool2"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/dhool3"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/dhool4"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/dhool5"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/dhool6"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/dhool7"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/dhool8"
+        android:duration="400"/>
+
+</animation-list>

@@ -1,0 +1,15 @@
+﻿Vest	                                                                                     bunyaan                                    	  بنیان
+Raincoat                                                                              barsati kameez                        	برساتی قمیض
+Pants	                                                                                     patloon                                    	 پتلون
+Swimsuit	                                                                                 peraki ka libaas                    	پیراکی کا لباس
+Straw hat	                                                                                 tinkon se bani topi                	تنکوں سے بنی ٹوپی
+Tie	                                                                                         tie                                            	 ٹائی
+Hoodie	                                                                                     top dar kameez                        	  ٹوپ دار قمیض
+Cap	                                                                                         topi                                       	 ٹوپی
+Socks	                                                                                     jrabain                                       	 جرابیں
+Belt	                                                                                     kamar bund                                   	کمربند
+Jacket	                                                                                     jacket                                        	  جیکٹ
+Gloves	                                                                                     dastanain                                    	دستانے
+Scarf	                                                                                     dopatta                                       	دوپٹہ
+Underpants	                                                                                 zairjama                                   	زیر جامہ
+Skirt	                                                                                     lahenga                                       	لہنگا

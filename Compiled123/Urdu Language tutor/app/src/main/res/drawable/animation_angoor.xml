@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:drawable="@drawable/angoor"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/angoor1"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/angoor2"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/angoor3"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/angoor4"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/angoor5"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/angoor6"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/angoor7"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/angoor8"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/angoor9"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/angoor91"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/angoor92"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/angoor93"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/angoor94"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/angoor95"
+        android:duration="400"/>
+
+
+</animation-list>

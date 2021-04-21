@@ -1,0 +1,15 @@
+﻿Fever 	                                                                                     bukhaar                              	 بخار
+Piles	                                                                                     bwaseer                              	بواسیر
+Coma	                                                                                    bayhoshee                           	بے ہوشی
+Bronchitis	                                                                        phayphron ka dard                       	پھیپھڑوں کا درد
+Diarrhoea	                                                                               paychess                              	پیچش
+Rheumatism	                                                                           joron ka dard                          	جوڑوں کا درد
+Vaccinia	                                                                                 chichak                            	چیچک
+Ringworm	                                                                                 kharash                               	 خارش
+Renal colic	                                                                           gurda ka dard                        	 گردہ کا درد
+Asthma	                                                                                        damma                            	دمہ
+Diabetes	                                                                               ziyabitus                              	ذیابیطس
+Cold	                                                                                       zukaam                              	زکام
+Cancer	                                                                                      sartaan                             	سرطان
+Pyrosis	                                                                                 sozash maida                           	سوزش معدہ
+Plague	                                                                                       taoon                          	                                طاعون

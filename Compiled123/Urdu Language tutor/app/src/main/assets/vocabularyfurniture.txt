@@ -1,0 +1,15 @@
+﻿Wardrobe	                                                                                  almari                              	الماری
+Iron	                                                                                      istari                               	استری
+Mirror                                                                                       	aaina                              	آئینہ
+Lamp	                                                                                        bulb                              	بلب
+Piano	                                                                                       piano                               	 پیانو
+Bed	                                                                                           plung                             	پلنگ
+Bench	                                                                                       takhta                           	تختہ
+Towel	                                                                                      toliza                            	تولیہ
+Drawer	                                                                                        draaz                            	دراز
+Washing Machine	                                                                       dulaie ka aala                     	دھلائی کا آلہ
+Dressing table	                                                                        singhaar maze                      	سنگھار میز
+Sofa	                                                                                        sofa                           	صوفه
+Filing cabinet	                                                                  filoon wali almari                    	فائلوں والی الماری
+Blanket	                                                                                      kumbal                            	 کمبل
+Chair	                                                                                      kursee                             	 کرسی

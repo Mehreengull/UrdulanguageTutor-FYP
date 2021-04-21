@@ -1,0 +1,15 @@
+﻿Light Blue	                                                                                  asmani                                   	   آسمانی
+Violet	                                                                                     bnufshe                                   	بنفشی
+Brown	                                                                                       bhura                                   	بھورا
+Yellow	                                                                                       peela                                   	پیلا
+Purple                                                                                      jaamni                                 	جامنی
+Silver	                                                                                     chaandi                                	چاندی
+Apricot 	                                                                                khoobani                               	 خوبانی
+Olive	                                                                                     zaitoon                                	زیتون
+Golden	                                                                                    sunahara                                	سنہرا
+White	                                                                                      safaid                                  	سفيد
+Red	                                                                                            laal                                   	سرخ
+Gray                                                                                       saleti                               	سلیٹی
+Green                                                                                         hara                                   	سبز
+Black                                                                                         kala                                   	كالا
+Blue                                                                                       neela                                 	نيلا

@@ -1,0 +1,15 @@
+﻿Scooter	                                                                                    askooter                               	اسکوٹر
+Baby carriage	                                                                           bcha gadi                            	بچہ گاڑی
+Bulldozer	                                                                                baldozar                             	بلڈوزر
+Bus	                                                                                            bus                                 	بس
+Train	                                                                                       train                                 	ٹرین
+Camper van	                                                                            khaima wali gadi                       	خیمہ والی گاڑی
+Delivery van	                                                                            delivery van                       	ڈلیوری وین
+Bicycle	                                                                                        saikal                           	 سائیکل
+Fire engine	                                                                                  fire engine                        	فائر انجن
+Car	                                                                                              car                               	 کار
+Taxi	                                                                                       kraie ki gadi                  	کرائے کی گاڑی
+Boat	                                                                                         kashti                             	کشتی
+Crane	                                                                                          krane                              	کرین
+Carvan	                                                                                         karvaan                            	کاروان
+Dump truck	                                                                                    koda truck                          	کوڑا ٹرک

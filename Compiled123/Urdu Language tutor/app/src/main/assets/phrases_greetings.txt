@@ -1,0 +1,16 @@
+﻿Hi	                                                                                                Aslam o Alaikum                                                      	اسلام وعلیکم
+Good Morning                                                                                       	Subha Ba-khair                                                         	صبح بخیر
+Welcome                                                                                          	Khus Aamdeed                                                           	خوش آمدید
+How are you?                                                                                    	Kya haal hai                                                          	کیا حال ہے
+I'm fine,thanks                                                                                 	Main theek hun, Shukria!                                                    	میں ٹھیک ہوں، شکریہ
+And you?                                                                                         	Aur aap?                                                                            	اورآپ
+Good                                                                                               	Acha                                                                                 	اچھا
+Thank you                                                                                       	Aap ka shukria                                                                   	آپ کا شکریہ
+You are welcome                                                                                    	Koi baat nahi                                                                   	کوئی بات نہیں
+Hey! Friend                                                                                     	Dost suno                                                                           	دوست سنو
+I missed you so much!                                                                                	Mujay aap ki bohut kami mehsoos huwi                                        	مجھے آپ کی بہت کمی محسوس ہوئی
+Whats's new?                                                                                    	Koi nai khabar                                                                      	کوئی نئی خبر
+Nothing much	                                                                                    Koi nai khabar nahi                                                             	کوئی نئی خبر نہیں
+Good night!	                                                                                        Shab bakhair                                                                    	شب بخیر
+See you later!                                                                                   	Phir milain ge                                                                     	پھر ملیں گے
+Good bye!                                                                                       	Khuda hafiz                                                                      	خدا حافظ

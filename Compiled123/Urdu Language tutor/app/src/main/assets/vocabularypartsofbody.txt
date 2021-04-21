@@ -1,0 +1,15 @@
+﻿Finger	                                                                                       ungli                                    	 انگلی
+Heel	                                                                                       aehri                                    	  ایڑی
+Eye                                                                                            aankh                                     	 آنکھ
+Hairs	                                                                                       baal                                      	بال
+Eyebrow	                                                                                       bhawain                                  	بھوئیں
+Forehead	                                                                                   peshani                                   	پیشانی
+Foot	                                                                                       paoon                                    	پاؤں
+Leg	                                                                                           taang                                      	ٹانگ
+Ankle	                                                                                       takhna                                   	ٹخنہ
+Face	                                                                                       chehra                                    	چہرہ
+Teeth	                                                                                       daant                                    	دانت
+Cheek	                                                                                       rukhsar                                  	رخسار
+Thigh	                                                                                       raan                                        	 ران
+Tongue	                                                                                       zaban                                     	زبان
+Head	                                                                                       sar                                         	 سر

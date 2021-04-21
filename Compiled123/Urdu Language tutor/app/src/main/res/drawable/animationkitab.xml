@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:drawable="@drawable/kitab"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/kitab1"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/kitab2"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/kitab3"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/kitab4"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/kitab5"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/kitab6"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/kitab7"
+        android:duration="400"/>
+
+
+
+</animation-list>

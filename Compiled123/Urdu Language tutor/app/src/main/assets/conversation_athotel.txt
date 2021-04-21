@@ -1,0 +1,17 @@
+﻿Ali:	Can I help you?                                                                                               	کیا میں اپ کی مدد کر سکتا ہوں؟	علی
+Shahid: Yes please. I'd like to make a reservation.                                                                               	شاہد جی ہاں برائے مہربانی میں بکنگ کرنا چاہتا ہوں
+Ali:	Certainly. Can I have the name sir?                                                                                   	 یقینا۔ کیا میں آپ کانام جان سکتا ہوں؟	علی
+Shahid: 	Yes My name is Shahid.                                                                                          	ہاں میرا نام شاہد ہے۔	شاہد
+Ali:	Well Mr. Shahid. When would you like the reservation for?                                                                      	علی ٹھیک ہے جناب شاہد آپ کب کے لئے بکنگ پسند کریں گے؟
+Shahid: 	It is for four nights from the 3rd to the 6th of May.                                                                   	شاہد یہ تیسری سے چھ مئی تک چار راتوں کی ہے۔
+Ali:	Right Is that a single or a double room?                                                                                	ٹھیک ہے کیا یہ سنگل ہے یا ڈبل ​​کمرہ؟	علی
+Shahid: 	A double please preferably on the ground floor.                                                                      	شاہد ایک ڈبل براہ کرم ترجیحی طور پر گراؤنڈ فلور پر۔
+Ali:	I'll just check if that's available.. I am sorry sir We have only one single room available on the ground floor. Would that be Ok?                                                                                           	علی میں صرف چیک کروں گا کہ آیا وہ دستیاب ہے۔ مجھے افسوس ہے جناب ہمارے پاس گراؤنڈ فلور پر صرف ایک ہی کمرہ دستیاب ہے۔ کیا یہ ٹھیک ہے؟
+Shahid: 	Yes I'm sure that would be fine.                                                                             	شاہدہاں مجھے یقین ہے کہ یہ ٹھیک ہوگا۔ مجھے کتنی قیمت ادا کرنی ہوگی؟
+Ali:	Rs. 1500/ per night. It includes breakfast.                                                                       	 روپے فی رات1500 ۔ اس میں ناشتہ بھی شامل ہے۔	علی
+Shahid: 	I see Ok.                                                                                                             	شاہد ٹھیک ہےمیں دیکھتا ہوں۔
+Ali:	Could I have the address and the phone number please?                                                                            	علی کیا مجھے پتہ اور فون نمبر مل سکتا ہے؟
+Shahid: 	Sure                                                                                                                 	بے شک	شاہد
+Ali:	Ok Mr Shahid thank you for calling.                                                                          	علی ٹھیک ہے مسٹر شاہد فون کرنے کا شکریہ۔
+Shahid: 	Thank you, Good bye.                                                                                                	شکریہ خدا حافظ.	شاہد
+Ali:	Bye.                                                                                              	الوداع	علی

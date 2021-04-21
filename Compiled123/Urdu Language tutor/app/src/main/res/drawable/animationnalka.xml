@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:drawable="@drawable/nalka"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/nalka1"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/nalka2"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/nalka3"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/nalka4"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/nalka5"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/nalka6"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/nalka7"
+        android:duration="400"/>
+
+
+
+
+</animation-list>

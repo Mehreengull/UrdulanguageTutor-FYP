@@ -1,0 +1,15 @@
+﻿Honest	                                                                                    emaamdaar                           	 ایماندار
+Stupid	                                                                                       ahmak                                 	احمق
+Dishonest                                                                                	bayemaan                              	بے ایمان
+Brave	                                                                                     bahadur                                	بہادر
+Coward	                                                                                       buzdil                                	 بزدل
+Confident	                                                                               puratmaad                               	پُر اعتماد
+Optimistic	                                                                                pur umeed                               	پر امید
+Clever	                                                                                     chalaak                                  	چالاک
+Friendly	                                                                                 dostana                                	دوستانہ
+Intelligent	                                                                                  zaheen                                   	ذہین
+Kind	                                                                                   reham dil                                   	رحم دل
+Lazy	                                                                                        sust                                   	سست
+Generous                                                                                    	sakhee                               	سخی
+Shy	                                                                                          sarmili                               	شرمیلی
+Humble	                                                                                        aajiz                                	عاجز

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:drawable="@drawable/ainak"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/ainak1"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/ainak2"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/ainak3"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/ainak4"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/ainak5"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/ainak6"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/ainak7"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/ainak8"
+        android:duration="400"/>
+
+
+
+
+</animation-list>

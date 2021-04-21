@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:drawable="@drawable/basta"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/basta1"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/basta2"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/basta3"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/basta4"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/basta5"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/basta6"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/basta7"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/basta8"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/basta9"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/basta91"
+        android:duration="400"/>
+
+</animation-list>

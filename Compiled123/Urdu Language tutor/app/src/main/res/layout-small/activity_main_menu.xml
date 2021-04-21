@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainMenu"
+    android:background="@drawable/mainmenu"
+    tools:ignore="MissingDefaultResource">
+
+    <Button
+        android:id="@+id/read"
+        android:layout_width="18dp"
+        android:layout_height="16dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="32dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/roundedbutton"
+        android:onClick="sendRead" />
+
+    <Button
+        android:id="@+id/write"
+        android:layout_width="16dp"
+        android:layout_height="21dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="28dp"
+        android:layout_marginEnd="82dp"
+        android:layout_marginRight="82dp"
+        android:background="@drawable/roundedbutton"
+        android:onClick="sendWrite" />
+
+    <Button
+        android:id="@+id/grammar"
+
+        android:layout_width="18dp"
+        android:layout_height="16dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="35dp"
+        android:layout_marginEnd="147dp"
+        android:layout_marginRight="147dp"
+        android:background="@drawable/roundedbutton"
+        android:onClick="sendgrammar"></Button>
+
+    <Button
+        android:id="@+id/muhawry"
+        android:layout_width="23dp"
+        android:layout_height="20dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginTop="80dp"
+        android:layout_marginEnd="19dp"
+        android:layout_marginRight="19dp"
+        android:background="@drawable/roundedbutton"
+        android:onClick="sendMuhawry"></Button>
+
+    <Button
+        android:id="@+id/khawty"
+
+        android:layout_width="18dp"
+        android:layout_height="16dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginTop="75dp"
+        android:layout_marginEnd="84dp"
+        android:layout_marginRight="84dp"
+        android:background="@drawable/roundedbutton"
+        android:onClick="sendKhawty"></Button>
+
+    <Button
+        android:id="@+id/lagat"
+
+        android:layout_width="18dp"
+        android:layout_height="16dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginTop="76dp"
+        android:layout_marginEnd="147dp"
+        android:layout_marginRight="147dp"
+        android:background="@drawable/roundedbutton"
+        android:onClick="sendLagat"></Button>
+
+    <Button
+        android:id="@+id/mukalma"
+
+        android:layout_width="18dp"
+        android:layout_height="16dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="121dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/roundedbutton"
+        android:onClick="sendMukalam"></Button>
+
+    <Button
+        android:id="@+id/chtbot"
+        android:layout_width="18dp"
+        android:layout_height="16dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="120dp"
+        android:layout_marginEnd="86dp"
+        android:layout_marginRight="86dp"
+        android:background="@drawable/roundedbutton"
+        android:onClick="sendChatbot"></Button>
+
+    <Button
+        android:id="@+id/zakhira"
+        android:layout_width="18dp"
+        android:layout_height="16dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="123dp"
+        android:layout_marginEnd="148dp"
+        android:layout_marginRight="148dp"
+        android:background="@drawable/roundedbutton"
+        android:onClick="sendzkhiraAlfaz"></Button>
+
+
+</RelativeLayout>

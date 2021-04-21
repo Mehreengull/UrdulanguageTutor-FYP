@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item
+        android:drawable="@drawable/tay"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/tay1"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/tay2"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/tay3"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/tay4"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/tay5"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/tay6"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/tay7"
+        android:duration="400"/>
+
+
+</animation-list>

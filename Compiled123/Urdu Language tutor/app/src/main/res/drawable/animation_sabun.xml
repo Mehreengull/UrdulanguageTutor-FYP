@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:drawable="@drawable/sabun"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/sabun1"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/sabun2"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/sabun3"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/sabun4"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/sabun5"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/sabun6"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/sabun7"
+        android:duration="400"/>
+
+</animation-list>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item
+        android:drawable="@drawable/ttay"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/ttay1"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/ttay2"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/ttay3"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/ttay4"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/ttay5"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/ttay6"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/ttay8"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/ttay9"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/ttay91"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/ttay92"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/ttay93"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/ttay94"
+        android:duration="400"/>
+
+
+</animation-list>

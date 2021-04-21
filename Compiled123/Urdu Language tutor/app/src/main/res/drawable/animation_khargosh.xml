@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:drawable="@drawable/khargosh"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/khargosh1"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/khargosh2"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/khargosh3"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/khargosh4"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/khargosh5"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/khargosh6"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/khargosh7"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/khargosh8"
+        android:duration="400"/>
+
+</animation-list>

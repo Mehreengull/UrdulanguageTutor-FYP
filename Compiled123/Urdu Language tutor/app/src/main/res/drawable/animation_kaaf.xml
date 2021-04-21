@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:drawable="@drawable/kaaf"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/kaaf1"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/kaaf2"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/kaaf3"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/kaaf4"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/kaaf5"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/kaaf6"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/kaaf7"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/kaaf8"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/kaaf9"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/kaaf91"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/kaaf92"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/kaaf93"
+        android:duration="400"/>
+
+
+
+
+
+</animation-list>

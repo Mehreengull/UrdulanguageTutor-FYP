@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:drawable="@drawable/laam"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/laam1"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/laam2"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/laam3"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/laam4"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/laam5"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/laam6"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/laam7"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/laam8"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/laam9"
+        android:duration="400"/>
+
+</animation-list>

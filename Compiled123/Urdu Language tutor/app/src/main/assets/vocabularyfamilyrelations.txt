@@ -1,0 +1,15 @@
+﻿Brother                                                                                     bhai                                	 بھائی
+Sister	                                                                                       behan                               	بہن
+Son                                                                                         beta                                 	 بیٹا
+Daughter                                                                                    beti                                	بیٹی
+Nephew                                                                                bhanja, bhatija                         	بھانجا، بھتیجا
+Niece                                                                                 bhanji, bhatiji                        	بھانجی، بھتیجی
+Wife	                                                                                    biwi                                   	             بیوی
+Grandson	                                                                                potta                               	پوتا
+Granddaughter	                                                                            potti                               	پوتی
+Uncle	                                                               chacha, khalu, mamu, phupha                        چچا، خالو، ماموں، پھوپا
+Aunt	                                                               chachi, khala, mami, phophi                          	چچی، خالہ، ممانی، پھپھی
+Cousin	                                                               chacha zad, khala zad, mamo zad                      	   چچا زاد، خالہ زاد، ماموں زاد
+Grandmother	                                                                            dadi, nani                                	 دادی، نانی
+Grandfather                                                                          	dada, nana                               	دادا ، نانا
+Father-in-law	                                                                            susar                                  	سسر

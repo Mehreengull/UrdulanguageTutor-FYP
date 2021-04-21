@@ -1,0 +1,15 @@
+﻿Aluminum	                                                                                aluminium                                      	 الومینیم
+Brick	                                                                                        eint                                        	     اینٹ
+Stone	                                                                                      pather                                        	پتھر
+Brass	                                                                                       pital                                        	پیتل
+Copper	                                                                                      taanba                                         	تانبا
+Silver	                                                                                      chandi                                        	چاندی
+Leather	                                                                                      chamra                                         	چمڑا
+Cotton	                                                                                        rooe                                        	 روئی
+Sand	                                                                                        rait                                          	ریت
+Fiber	                                                                                       raisha                                        	ریشه
+Cement                                                                                      	cement                                      	سیمنٹ
+Gold	                                                                                        sona                                        	سونا
+Glass	                                                                                      shesha                                        	شیشه
+Steel	                                                                                       fulaad                                        	فولاد
+Paper	                                                                                       kaghz                                        	کاغذ

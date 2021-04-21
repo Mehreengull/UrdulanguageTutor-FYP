@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainMenu"
+    android:background="@drawable/mainmenu"
+    tools:ignore="MissingDefaultResource">
+
+    <Button
+        android:id="@+id/read"
+        android:layout_width="104dp"
+        android:layout_height="94dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="187dp"
+        android:layout_marginEnd="54dp"
+        android:layout_marginRight="54dp"
+        android:background="@drawable/roundedbutton"
+        android:onClick="sendRead"
+        />
+
+    <Button
+        android:id="@+id/write"
+        android:layout_width="105dp"
+        android:layout_height="58dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="179dp"
+        android:layout_marginEnd="258dp"
+        android:layout_marginRight="258dp"
+        android:background="@drawable/roundedbutton"
+        android:onClick="sendWrite"
+         />
+
+    <Button
+        android:id="@+id/grammar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="188dp"
+        android:layout_marginEnd="451dp"
+        android:layout_marginRight="451dp"
+        android:background="@drawable/roundedbutton"
+        android:onClick="sendgrammar"
+     ></Button>
+
+    <Button
+        android:id="@+id/muhawry"
+        android:layout_width="98dp"
+        android:layout_height="68dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginTop="501dp"
+        android:layout_marginEnd="50dp"
+        android:layout_marginRight="50dp"
+        android:background="@drawable/roundedbutton"
+        android:onClick="sendMuhawry"
+        ></Button>
+
+    <Button
+        android:id="@+id/khawty"
+        android:layout_width="wrap_content"
+        android:layout_height="56dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="373dp"
+        android:layout_marginEnd="249dp"
+        android:layout_marginRight="249dp"
+        android:background="@drawable/roundedbutton"
+        android:onClick="sendKhawty"></Button>
+
+    <Button
+        android:id="@+id/lagat"
+        android:layout_width="111dp"
+        android:layout_height="63dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="352dp"
+        android:layout_marginEnd="445dp"
+        android:layout_marginRight="445dp"
+        android:background="@drawable/roundedbutton"
+        android:onClick="sendLagat"
+       ></Button>
+
+    <Button
+        android:id="@+id/mukalma"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="533dp"
+        android:layout_marginEnd="57dp"
+        android:layout_marginRight="57dp"
+        android:background="@drawable/roundedbutton"
+        android:onClick="sendMukalam"
+        ></Button>
+
+    <Button
+        android:id="@+id/chtbot"
+        android:layout_width="wrap_content"
+        android:layout_height="91dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="540dp"
+        android:layout_marginEnd="258dp"
+        android:layout_marginRight="258dp"
+        android:background="@drawable/roundedbutton"
+        android:onClick="sendChatbot"
+       ></Button>
+
+    <Button
+        android:id="@+id/zakhira"
+        android:layout_width="77dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="548dp"
+        android:layout_marginEnd="468dp"
+        android:layout_marginRight="468dp"
+        android:background="@drawable/roundedbutton"
+        android:onClick="sendzkhiraAlfaz"
+       ></Button>
+
+
+</RelativeLayout>

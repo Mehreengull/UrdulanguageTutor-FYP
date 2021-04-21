@@ -1,0 +1,15 @@
+﻿Cloudy                                                                                    	abar aalood                         	ابر آلود
+Snowfall                                                                                	barafbari                             	برفباری
+SmowStorm                                                                               	barfani tofaan                    	برفانی طوفان
+Snow                                                                                         	braf                                	برف
+Drizzle                                                                                    	boonda baandi                       	بوندا باندی
+Snowy                                                                                    	barfeli                                 	برفیلی
+Rain                                                                                         	barush                               	بارش
+Rainy                                                                                      	barsaati                                	برساتی
+Windy                                                                                      	 taiz hava wala                      	 تیز ہوا والا
+Cool                                                                                        	thanda                                	ٹھنڈا
+Sunny                                                                                          	dhoop                                  	دھوپ
+Foggy                                                                                       	dhund                                  	دھند
+Bright                                                                                      	roshan                               	روشن
+Landslide                                                                               	raizash zameen                        	ریزشِ زمین
+Cold	                                                                                       sardi                                	سردی

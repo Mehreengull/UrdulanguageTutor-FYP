@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:drawable="@drawable/huqa1"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/huqa2"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/huqa3"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/huqa4"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/huqa5"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/huqa6"
+        android:duration="400"/>
+
+</animation-list>

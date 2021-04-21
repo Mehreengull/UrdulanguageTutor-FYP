@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:drawable="@drawable/railgari1"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/railgari2"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/railgari3"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/railgari4"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/railgari5"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/railgari6"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/railgari7"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/railgari8"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/railgari9"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/railgari91"
+        android:duration="400"/>
+
+
+
+</animation-list>

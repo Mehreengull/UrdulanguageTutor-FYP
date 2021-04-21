@@ -1,0 +1,15 @@
+﻿Tamarind	                                                                                    imli                        	 املی
+Ginger	                                                                                       adrak                        	ادرک
+Pickle	                                                                                       achar                          	اچار
+Caromseed	                                                                                  ajwain                        	اجوائن
+Pomegranateseed	                                                                          anaar dana                      	انار دانہ
+Cardamom	                                                                                 alaichi                        	الائچی
+Mango powder                                                                                 amchoor                        	آمچور
+Black Cardamom	                                                                        bari elaichi                         	بڑی الائچی
+Corianderpowder                                                                       	pissa dhania                        	پسا دھنیا
+Mint	                                                                                      podina                         	پوسینہ
+Corianderseed	                                                                        sabut dhania                     	ثابت دھنیا
+Green Cardamom	                                                                        choti elaichi                     	چھوٹی الائچی
+Chutney	                                                                                     chutney                             	چٹنی
+Cinnamon	                                                                                darchini                           	دارچینی
+Salt	                                                                                       namak                            	نمک

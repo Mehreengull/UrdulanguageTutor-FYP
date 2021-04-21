@@ -1,0 +1,15 @@
+﻿Patient: 	Good morning, Doctor!                                                                              	صبح بخیر ، ڈاکٹر!	مریض
+Doctor	Good morning! What’s wrong with you?                                                                            	صبح بخیر! آپ کے ساتھ مسئلہ کیا ہے؟	ڈاکٹر
+Patient: 	I have been suffering from fever since yesterday.                                                                   	میں کل سے بخار میں مبتلا ہوں۔	مریض
+Doctor	Do you have any other symptoms?                                                                          	 کیا آپ کو کوئی اور علامات ہیں؟	ڈاکٹر
+Patient: 	I also feel headache and shivering.                                                                 	مجھے سر درد اور کانپ بھی اٹھنے لگتا ہے۔	مریض
+Doctor	Let me take your temperature. Don’t worry, there is nothing serious.                                                     	ڈاکٹر مجھے آپ کا درجہ حرارت لینے دو پریشان نہ ہوں ، کوئی سنجیدہ بات نہیں ہے۔
+Patient: 	Thank you, doctor.                                                                                    	شکریہ ، ڈاکٹر۔	مریض
+Doctor	I shall recommend at least two days rest for you.                                                                	ڈاکٹر میں آپ کے لئے کم سے کم دو دن آرام تجویز کروں گا۔
+Patient: 	Would you prepare a medical certificate for me to submit it in my office?                                                                   	مریض کیا آپ میرے دفتر میں جمع کروانے کے لئے طبی سند تیار کریں گے؟
+Doctor	This is your medical certificate.                                                                       	یہ آپ کا طبی سند ہے۔	ڈاکٹر
+Patient: 	Thank you very much.                                                                                        	بہت بہت شکریہ.	مریض
+Doctor	This medicine is for one day only.                                                                           	یہ دوا صرف ایک دن کے لئے ہے۔	ڈاکٹر
+Patient: 	What should I eat doctor?                                                                                	مجھے ڈاکٹر کیا کھانا چاہئے؟	مریض
+Doctor:	You should eat only light food. You can take milk and fresh fruit also.                                                                          	ڈاکٹر آپ کو صرف ہلکا کھانا کھانا چاہئے۔ آپ دودھ اور تازہ پھل بھی لے سکتے ہیں۔
+Patient:	Thanks doctor.                                                                                                   	شکریہ ڈاکٹر۔	مریض

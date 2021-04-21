@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:drawable="@drawable/fawara"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/fawara1"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/fawara2"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/fawara3"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/fawara4"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/fawara5"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/fawara6"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/fawara7"
+        android:duration="400"/>
+
+
+
+
+</animation-list>

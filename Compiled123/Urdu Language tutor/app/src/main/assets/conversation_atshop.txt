@@ -1,0 +1,16 @@
+﻿Shopkeeper: 	Can I help you?                                                                             	کیا میں اپ کی مدد کر سکتا ہوں؟	دوکاندار
+Sidra: 	Yes have you got any cotton suits ?                                                                                	ہاں کیا آپ کے پاس کاٹن کا کوئی سوٹ ہے؟	سدرہ
+Shopkeeper: 	Yes they're over there.                                                                      	ہاں وہ وہاں پر ہیں۔	دوکاندار
+Sidra: 	Oh yes, I see I like the pink one. How much is it?                                                                         	سدرہ اوہ ہاں ، میں دیکھ رہی ہوں کہ مجھے گلابی پسند ہے۔ یہ کتنے کا ہے؟
+Shopkeeper: 	That one is Rs. 850/-                                                                         	  روپے  کا ہے800وہ        	دوکاندار
+Sidra: 	I think that's a bit too expensive but I like the green one.                                                              	سدرہ میرے خیال میں یہ تھوڑا سا مہنگا ہے لیکن مجھے سبز پسند ہے۔
+Shopkeeper: 	That one is Rs. 1200/-                                                                           	  روپے کا ہے1200وہ	دوکاندار
+Sidra: 	I can't afford that much. What about the white one?                                                                        	سدرہ میں اتنی گنجائش نہیں نکال سکتی۔ سفید کا کیا ہوگا؟
+Shopkeeper: 	Rs. 650/-                                                                                         	650 روپے	دوکاندار
+Sidra: 	That's a bit cheaper than even the pink one.                                                                                                  	  یہ گلابی سے بھی تھوڑا سستا ہے۔	سدرہ
+Shopkeeper: 	You can buy the green one madam. It's for sale at a reduced price.                                                                                               	دوکاندار محترمہ آپ سبز خرید سکتی ہیں۔ یہ کم قیمت پر فروخت ہے۔
+Sidra: 	Why? Is there any defect in it?                                                                                                  	کیوں؟ کیا اس میں کوئی عیب ہے؟	سدرہ
+Shopkeeper: 	Yes madam. There is an oil stain on the shalwar but it's not visible.                                                 	دوکاندار ہاں محترمہ۔ شلوار پر تیل کا داغ ہے لیکن وہ نظر نہیں آتا ہے۔
+Sidra: 	And what's its reduced price?                                                                                                         	سدرہ اور اس کی کم قیمت کیا ہے؟
+Shopkeeper: 	Only Rs. 900/                                                                                           	 روپےصرف 900	دوکاندار
+Sidra: 	Oh that's good. We'll take the green one please                                                                               	سدرہ اوہ یہ اچھی بات ہے۔ براہ کرم ہم سبز لے لیں گے۔
